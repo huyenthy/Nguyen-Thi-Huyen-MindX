@@ -169,3 +169,13 @@ h1{
     width: 50px;
     height: 50px;
 }
+.fd-price{
+    text-align: center;
+}
+.fd-price_now{
+    font-weight: bold;
+}
+.fd-price_origin{
+    text-decoration: line-through;
+}
+/* hết của Huyen */
